@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586121943 source:d:\documents\problemsolving\mahmoud and a triangle\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

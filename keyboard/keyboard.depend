@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1585871868 source:d:\documents\problemsolving\keyboard\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<map>
+	<math.h>
+

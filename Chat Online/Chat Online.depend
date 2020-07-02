@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586359614 source:d:\documents\problemsolving\chat online\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

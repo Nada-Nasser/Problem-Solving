@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586293565 source:d:\documents\problemsolving\students and shoelaces\main.cpp
+	<iostream>
+	<vector>
+	<set>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1582926153 source:c:\users\toshiba\documents\problemsolving\fixingtypo\main.cpp
+	"iostream"
+	"cstring"
+	"string"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1585931802 source:d:\documents\problemsolving\realexam\main.cpp
+	<vector>
+	<string.h>
+	<cstring>
+	<algorithm>
+	<iostream>
+	<vector>
+	<string.h>
+	<cstring>
+	<algorithm>
+

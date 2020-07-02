@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1586350946 source:d:\documents\problemsolving\dreamoon and wifi\main.cpp
+	<iostream>
+	<string>
+	<math.h>
+	<bitset>
+	<algorithm>
+

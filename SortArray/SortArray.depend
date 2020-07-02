@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583528358 source:c:\users\toshiba\documents\problemsolving\sortarray\main.cpp
+	<iostream>
+	<cmath>
+	<algorithm>
+

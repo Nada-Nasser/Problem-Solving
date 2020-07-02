@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584289502 source:c:\users\toshiba\documents\problemsolving\summer sell-off\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

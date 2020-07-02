@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585944219 source:d:\documents\problemsolving\diverse permutation\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

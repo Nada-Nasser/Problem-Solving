@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1585948133 source:d:\documents\problemsolving\opposites attract\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<map>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586380278 source:d:\documents\problemsolving\filya and homework\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+
